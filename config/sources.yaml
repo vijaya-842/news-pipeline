@@ -1,0 +1,52 @@
+sources:
+  - name: PR Newswire
+    url: https://www.prnewswire.com/in/news-releases/
+    fetch_mode: auto
+
+  - name: Endpoint News
+    url: https://endpoints.news/
+    fetch_mode: auto
+
+  - name: EIN Presswire
+    url: https://www.einpresswire.com/all-press-releases
+    fetch_mode: auto
+
+  - name: Globe Newswire
+    url: https://www.globenewswire.com/newsroom
+    fetch_mode: auto
+
+  - name: Businesswire
+    url: https://www.businesswire.com/newsroom
+    fetch_mode: auto
+
+  - name: STAT News
+    url: https://www.statnews.com/category/pharma/
+    fetch_mode: auto
+
+  - name: Biospace
+    url: https://www.biospace.com/news
+    fetch_mode: auto
+
+  - name: Fierce Pharma
+    url: https://www.fiercepharma.com/pharma
+    fetch_mode: auto
+
+  - name: Targeted Oncology
+    url: https://www.targetedonc.com/
+    fetch_mode: auto
+
+  - name: PharmaTimes
+    url: https://pharmatimes.com/
+    fetch_mode: auto
+
+  - name: FDA Press Releases
+    url: https://www.fda.gov/news-events/fda-newsroom/press-announcements
+    fetch_mode: auto
+
+  - name: First Word Pharma
+    url: https://firstwordpharma.com/river/recent-news
+    fetch_mode: auto
+
+  - name: Newswire Canada
+    url: https://www.newswire.ca/news-releases/health-latest-news/
+    fetch_mode: auto
